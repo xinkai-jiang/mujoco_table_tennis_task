@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "angvel",
+        "bodyid",
+        "childclass",
+        "dofadr",
+        "freejoint",
+        "gravcomp",
+        "IRLMQ",
+        "jntadr",
+        "linalg",
+        "mujocoinclude",
+        "njnt",
+        "qpos",
+        "qposadr",
+        "qvel",
+        "qveladr",
+        "rgba",
+        "rotvec",
+        "savez",
+        "simpub",
+        "xquat"
+    ],
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "notebook.defaultFormatter": "ms-python.black-formatter"
+}
